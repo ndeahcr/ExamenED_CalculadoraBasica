@@ -2,6 +2,18 @@ package calculadora;
 
 import java.util.Scanner;
 
+/**
+ * Suma simple que se encarga de realizar operaciones de suma
+ * 
+ * 	 * Metodo principal que inicia el programa
+	 * <p> Este metodo se encarga de pedir 2 numeros al usuario para despues poder realizar la suma de estos
+	 * @param args
+	 
+ * 
+ * @author ciclesgs
+ * @version 1.0
+ */
+
 public class SumaNumeros {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
