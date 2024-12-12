@@ -13,6 +13,8 @@ public class SumaNumeros {
 		System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + suma);
 		
 		//El programa se encarga de darnos la suma de 2 numeros que hayamos ingrersado con anterioridad
+		
+		//Cambio realizado desde feature-suma
 	}
 }
 
